@@ -1,0 +1,14 @@
+.head {
+    display: flex;
+    background-color: lightblue;
+    flex-direction: column;
+    justify-content: space-between;
+    flex: 1;
+    margin-bottom: 100px;
+    width: 50px;
+    font-family: arial;
+}
+
+.div1 {
+    margin-bottom: 20px;
+}
